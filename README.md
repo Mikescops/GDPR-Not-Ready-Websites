@@ -18,3 +18,4 @@ Here is a list about them.
 - [The Arizona Daily Star](http://tucson.com/) - Daily Newspaper in Tucson, Arizona
 - [Chicago Tribune](https://www.chicagotribune.com/) - Daily Newspaper in Chicago
 - [Orlando Sentinel](https://www.orlandosentinel.com/) - Daily Newspaper in Orlando
+- [The Missoulian](http://missoulian.com/) - Daily Newspaper in Missoula
