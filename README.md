@@ -16,3 +16,5 @@ Here is a list about them.
 - [Example Website](https://example.com/)	- A sample website.
 - [LA Times](https://www.latimes.com/) - Daily Newspaper in Los Angeles
 - [The Arizona Daily Star](http://tucson.com/) - Daily Newspaper in Tucson, Arizona
+- [Chicago Tribune](https://www.chicagotribune.com/) - Daily Newspaper in Chicago
+- [Orlando Sentinel](https://www.orlandosentinel.com/) - Daily Newspaper in Orlando
