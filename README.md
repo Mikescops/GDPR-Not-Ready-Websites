@@ -14,3 +14,5 @@ Here is a list about them.
 ## Let's start
 
 - [Example Website](https://example.com/)	- A sample website.
+- [LA Times](https://www.latimes.com/) - Daily Newspaper in Los Angeles
+- [The Arizona Daily Star](http://tucson.com/) - Daily Newspaper in Tucson, Arizona
