@@ -19,3 +19,7 @@ Here is a list about them.
 - [Chicago Tribune](https://www.chicagotribune.com/) - Daily Newspaper in Chicago
 - [Orlando Sentinel](https://www.orlandosentinel.com/) - Daily Newspaper in Orlando
 - [The Missoulian](http://missoulian.com/) - Daily Newspaper in Missoula
+- [History.com](https://www.history.com/) - History series, articles and videos
+- [Lifetime](https://www.mylifetime.com/) - Shows and movies streaming service
+- [FYI Network](https://www.fyi.tv/) - Shows and movies streaming service from FYI
+- [AETV](https://www.aetv.com/) - Shows and movies streaming service from A&E
