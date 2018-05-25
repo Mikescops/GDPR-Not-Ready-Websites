@@ -28,3 +28,6 @@ Here is a list about them.
 - [NY Daily News](http://www.nydailynews.com/) - Daily Newspaper in New York and USA
 - [The Quad-City Times](http://qctimes.com/) - Daily Newspaper in Iowa and Illinois
 - [Instapaper](https://www.instapaper.com/) - App for saving web pages
+- [Baltimore Sun](http://www.baltimoresun.com/) - Daily Newspaper in Baltimore
+- [Lee Enterprises](http://lee.net/) - Media publishing group
+- [Tronc](http://www.tronc.com/) - Media publishing group
