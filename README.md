@@ -25,3 +25,6 @@ Here is a list about them.
 - [AETV](https://www.aetv.com/) - Shows and movies streaming service from A&E
 - [Unroll.Me](https://unroll.me/) - Inbox cleaning mobile app
 - [Tunngle](https://www.tunngle.net/) - LAN Gaming Network
+- [NY Daily News](http://www.nydailynews.com/) - Daily Newspaper in New York and USA
+- [The Quad-City Times](http://qctimes.com/) - Daily Newspaper in Iowa and Illinois
+- [Instapaper](https://www.instapaper.com/) - App for saving web pages
